@@ -1,0 +1,19 @@
+
+
+body {
+        background-color:#FFFF99;
+} 
+
+input {
+border-radius: 30px;
+width: 12%;
+}
+
+textarea{
+border: thick double #32a1ce;
+}
+
+textarea:focus {
+  background: lightblue;
+  color: black;
+}
